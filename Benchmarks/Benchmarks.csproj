@@ -74,7 +74,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\JsonSerializerManager\JsonSerializerManager.csproj">
+    <ProjectReference Include="..\lib\JsonSerializerManager\JsonSerializerManager.csproj">
       <Project>{ddf41930-f367-4176-8f44-a70b3805d183}</Project>
       <Name>JsonSerializerManager</Name>
     </ProjectReference>

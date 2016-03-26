@@ -1,0 +1,3 @@
+[submodule "lib/JsonSerializerManager"]
+	path = lib/JsonSerializerManager
+	url = git@github.com:jbw/JsonSerializerManager.git
